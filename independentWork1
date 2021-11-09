@@ -1,1 +1,2 @@
-independentWork1
+let name = "Иван"; 
+	alert( `Привет, ${name}!` ); // Привет, Иван! 
